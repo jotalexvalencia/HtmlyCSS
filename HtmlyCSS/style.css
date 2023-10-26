@@ -1,3 +1,22 @@
-.contenedor-listas {
-  background-color: silver;
+#titulo-app-gatos {
+  font-size: 30px;
+  color: green;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#imagen-de-gatos {
+  border-radius: 50%;
+  border-width: 5px;
+  border-style: solid;
+  border-color: brown;
+}
+
+#lista-gatos-aman {
+  font-size: 15px;
+  color: blueviolet;
+}
+
+#lista-gatos-odian {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
 }
