@@ -3,9 +3,9 @@ div {
 }
 
 img {
-  padding: 20px 15px 5px 10px;
+  margin: 15px;
   background-color:  yellow;
   border-width: 2px;
-  border-color:black;
+  border-color:white;
   border-style: solid;
 }
