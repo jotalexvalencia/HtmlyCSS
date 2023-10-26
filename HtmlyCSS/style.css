@@ -1,6 +1,3 @@
-.imagen-de-gatos {
-  width: 200px;
-  border-width: 5px;
-  border-color: blue;
-  border-style: solid dashed dotted double;
+.bordes-redondeados {
+  border-radius: 150px;
 }
