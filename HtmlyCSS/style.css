@@ -3,7 +3,10 @@ div {
 }
 
 img {
-  padding: 15px;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-left: 10px;
+  padding-bottom: 10px;
   background-color: yellow;
   border-width: 2px;
   border-color:black;
