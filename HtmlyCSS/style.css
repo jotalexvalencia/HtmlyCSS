@@ -1,12 +1,6 @@
-h2 {
-  font-family: 'Ephesis', cursive;  
-  font-size: 50px;
-}
-
-h3 {
-  font-family: 'Roboto', sans-serif;
-}
-
-a {
-  font-family: 'Gemunu Libre', sans-serif;
+.imagen-de-gatos {
+  width: 200px;
+  border-width: 5px;
+  border-color: blue;
+  border-style: solid dashed dotted double;
 }
