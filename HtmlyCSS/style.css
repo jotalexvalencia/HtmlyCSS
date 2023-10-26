@@ -3,11 +3,8 @@ div {
 }
 
 img {
-  padding-top: 20px;
-  padding-right: 15px;
-  padding-left: 10px;
-  padding-bottom: 10px;
-  background-color: yellow;
+  padding: 20px 15px 5px 10px;
+  background-color:  yellow;
   border-width: 2px;
   border-color:black;
   border-style: solid;
