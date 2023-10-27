@@ -1,7 +1,8 @@
 .pinguino {
-    --pinguino-barriga: gray;
+    --pinguino-barriga: white;
     --pinguino-pico: yellow;
-    --pinguino-piel: chocolate;
+    --pinguino-piel: black;
+    --pinguino-mejillas: pink;
     position: relative;
     margin: auto;
     display: block;
@@ -13,7 +14,7 @@
 .pinguino-superior {
   top: 10%;
   left: 25%;
-  background: var(--pinguino-piel);
+  background: var(--pinguino-piel, black);
   width: 50%;
   height: 45%;
   border-radius: 70% 70% 60% 60%;
@@ -22,7 +23,7 @@
 .pinguino-inferior {
   top: 40%;
   left: 23.5%;
-  background: var(--pinguino-piel);
+  background: var(--pinguino-piel, black);
   width: 53%;
   height: 45%;
   border-radius: 70% 70% 100% 100%;
@@ -31,7 +32,7 @@
 .mano-derecha {
   top: 0%;
   left: -5%;
-  background: var(--pinguino-piel);
+  background: var(--pinguino-piel, black);
   width: 30%;
   height: 60%;
   border-radius: 30% 30% 120% 30%;
@@ -42,7 +43,7 @@
 .mano-izquierda {
   top: 0%;
   left: 75%;
-  background: var(--pinguino-piel);
+  background: var(--pinguino-piel, black);
   width: 30%;
   height: 60%;
   border-radius: 30% 30% 30% 120%;
@@ -129,7 +130,7 @@
 .color-mejilla-derecha {
   top: 65%;
   left: 15%;
-  background: pink;
+  background: var(--pinguino-mejillas,pink);
   width: 15%;
   height: 10%;
   border-radius: 50%;
@@ -138,7 +139,7 @@
 .color-mejilla-izquierda {
   top: 65%;
   left: 70%;
-  background: pink;
+  background: var(--pinguino-mejillas,pink);
   width: 15%;
   height: 10%;
   border-radius: 50%;
