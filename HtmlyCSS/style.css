@@ -1,7 +1,6 @@
-.texto-azul {
-    color:blue !important;
-}
-
-#titulo {
-    color:black;
+img {
+    border-radius: 50%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #eb4034;
 }
