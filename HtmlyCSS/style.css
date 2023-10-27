@@ -1,9 +1,7 @@
-#enlace-principal {
-    color: green;
-    text-decoration: green wavy underline;
+.texto-azul {
+    color:blue !important;
 }
 
-.sin-subrayado {
-    color: blue;
-    text-decoration: none;
+#titulo {
+    color:black;
 }
