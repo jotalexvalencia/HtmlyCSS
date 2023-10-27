@@ -1,6 +1,18 @@
+div {
+    background-color: #0ff;
+}
+
+h2 {
+color: #f00;
+}
+
 img {
     border-radius: 50%;
     border-width: 3px;
     border-style: solid;
-    border-color: #eb4034;
+    border-color: #0f0;
+} 
+
+a {
+    color: #f0f;
 }
