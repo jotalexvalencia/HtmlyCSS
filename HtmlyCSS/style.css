@@ -1,4 +1,9 @@
-a {
-  text-decoration: purple wavy underline;  
+#enlace-principal {
+    color: green;
+    text-decoration: green wavy underline;
 }
 
+.sin-subrayado {
+    color: blue;
+    text-decoration: none;
+}
