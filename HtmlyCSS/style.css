@@ -1,15 +1,16 @@
 :root {
+    --pinguino-piel: gray;
     --pinguino-barriga: pink;
+    --pinguino-pico: orange;
+    --pinguino-mejillas: pink;
 }
 
 body {
     background: var(--pinguino-barriga, #c6faf1);
 }
 
-.pinguino {    
-    --pinguino-pico: yellow;
-    --pinguino-piel: black;
-    --pinguino-mejillas: pink;
+.pinguino {     
+    --pinguino-barriga: white;
     position: relative;
     margin: auto;
     display: block;
