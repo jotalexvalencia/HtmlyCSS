@@ -1,18 +1,18 @@
 div {
-    background-color: #0ff;
+    background-color: rgb(0, 255, 255);
 }
 
 h2 {
-color: #f00;
+color: rgb(255, 0, 0);
 }
 
 img {
     border-radius: 50%;
     border-width: 3px;
     border-style: solid;
-    border-color: #0f0;
+    border-color: rgb(0, 255, 0);
 } 
 
 a {
-    color: #f0f;
+    color: rgba(255,0,80,0.3);
 }
